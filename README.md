@@ -4,6 +4,14 @@
 
 > **IMPORTANT**: The project has not yet reached a stable state and is in active evolution. Therefore the APIs, commands, interfaces and configurations are still subject to change as new functionality and re-work activities are under way. Upon reaching version 1.0.0 the interfaces will be stabilized.
 
+
+Latest release: https://github.com/marcheg/lstsim/releases/latest
+
+![lst demo](images/lstdemo.svg)
+
+Example [Dashboards](dashboard_examples.md).
+
+
 ---
 
 ## Content
@@ -39,8 +47,6 @@
 ```
 
 ---
-
-
 
 # Use Cases
 
